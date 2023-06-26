@@ -1,0 +1,3 @@
+[submodule "mgcn"]
+	path = mgcn
+	url = git@github.com:tahafkh/mgcn.git
